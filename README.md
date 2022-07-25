@@ -1,4 +1,4 @@
-# Sunset BSPWM Rice
+# Sunset bspwm rice
 
 `WIP, but community asked for dots =D`
 
